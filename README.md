@@ -12,4 +12,6 @@ Apache, PhP and MySQL
 <li>4. Update email and your application website in components/authenticate/modle/authenticateModule.php
    This is required in order to send email verification links and password verification links.</li>
 </ul>
+
+<br /><br />
 Good Luck!
