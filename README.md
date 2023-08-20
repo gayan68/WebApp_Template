@@ -1,2 +1,14 @@
 # WebApp_Template
 Sample WebApp template to start web applications easily. The authentication and basic redirections are already included for both PC and mobile versions. You just need to add your code.
+
+<h2>Prerequisite</h2>
+Apache, PhP and MySQL
+
+<h1>How to Setup</h1>
+1. Copy code to your web root.
+2. Create a MySQL DB and restore webapp_tables.sql (this is inlude in the root of the sorce code).
+3. Open "config.php" and set your Database, DB user, DB password.
+4. Update email and your application website in components/authenticate/modle/authenticateModule.php
+   This is required in order to send email verification links and password verification links.
+
+Good Luck!
