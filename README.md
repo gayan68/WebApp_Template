@@ -13,5 +13,8 @@ Apache, PhP and MySQL
    This is required in order to send email verification links and password verification links.</li>
 </ul>
 
+<h3>Login Details</h3>
+Username - user1
+Password - 12345678
 <br /><br />
 Good Luck!
