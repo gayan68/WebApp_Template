@@ -14,7 +14,7 @@ Apache, PhP and MySQL
 </ul>
 
 <h3>Login Details</h3>
-Username - user1
+Username - user1 <br />
 Password - 12345678
 <br /><br />
 Good Luck!
